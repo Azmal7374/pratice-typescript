@@ -1,0 +1,19 @@
+
+
+------>>>>>>>>>
+nvm=node version manager 
+node --v
+nvm --v
+nvm instal version(16.20.2)
+nvm list 
+nvm use version(18.17.0)  
+npm install -g typescript
+tsc -v
+
+
+---->>> typescript configuration
+tsc --init
+tsc -> run 
+
+Primitive types: number , string , boolean,null, undefined,symbol
+Non primitive types: Array , Tuple , Object 
