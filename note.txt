@@ -14,6 +14,8 @@ tsc -v
 ---->>> typescript configuration
 tsc --init
 tsc -> run 
+ts-node-dev --respawn --transpile-only .\3.3.ts
+
 
 Primitive types: number , string , boolean,null, undefined,symbol
 Non primitive types: Array , Tuple , Object 
